@@ -6,7 +6,7 @@
 #define IDC_BTN_SUBMIT 1002
 #define DEMO_PASSWORD "iquit"
 
-const char IMAGE_PATH[] = "C:\\Users\\Gaurab Aryal\\OneDrive\\Documents\\ransomware_model\\front_page.bmp";
+const char IMAGE_PATH[] = "ransomware_model\\front_page.bmp";
 
 int screenWidth  = GetSystemMetrics(SM_CXSCREEN);
 int screenHeight = GetSystemMetrics(SM_CYSCREEN);
